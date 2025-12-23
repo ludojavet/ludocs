@@ -1,0 +1,36 @@
+# Build output
+site/
+
+# Cache directory
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Logs
+*.log
+
+# Local config (if any)
+*.local.toml
